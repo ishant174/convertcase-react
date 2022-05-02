@@ -1,0 +1,12 @@
+.uppercase{
+    margin-right: 10px;
+}
+.appcontainer{
+    padding: 15px;
+    border: 2px solid;
+    border-radius: 10px;
+    background: rgb(13 110 253 / 25%);
+}
+.appcontainer textarea{
+    font-size: 20px;
+}
